@@ -1,1 +1,1 @@
-# Basic ML Tutorials for begginers
+# Basic ML Tutorials for beginners
